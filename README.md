@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekdev123 a computer information systems major at Arizona State University! 
+- 👋 Hi, I’m @ekdev123 a Computer Information Systems major at Arizona State University! 
 - 🌱 I’m currently learning Python, HTML, CSS & JavaScript 
 - 📫 How to reach me... On LinkedIn www.linkedin.com/in/eldar-kahrovic 
 
