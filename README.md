@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekdev123 a Computer Information Systems recent grad from Arizona State University! 
+- 👋 Hi, I’m @ekdev123 a recent grad from Arizona State University! 
 - 🌱 I’m probably busy building something... 
 - 📫 How to reach me... On LinkedIn www.linkedin.com/in/eldar-kahrovic 
 
