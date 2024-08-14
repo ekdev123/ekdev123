@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ekdev123 a recent grad from Arizona State University! 
-- 🌱 I’m probably busy building something... 
+- 🌱 I love to build things. 
 - 📫 How to reach me... On LinkedIn www.linkedin.com/in/eldar-kahrovic 
 
 <!---
