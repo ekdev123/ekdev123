@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekdev123 a recent grad from Arizona State University! 
+- 👋 Hi, I’m @ekdev123 
 - 🌱 I love to build things. 
 - 📫 How to reach me... Through my website: https://www.eldarkahrovic.com On LinkedIn www.linkedin.com/in/eldar-kahrovic
   
